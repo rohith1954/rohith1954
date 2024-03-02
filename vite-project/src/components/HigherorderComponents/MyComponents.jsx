@@ -1,0 +1,1 @@
+const MyComponents =({text}) => <div>{text}</div>
